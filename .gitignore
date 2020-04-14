@@ -22,7 +22,12 @@ chrome-user-data
 .vscode
 *.swp
 *.swo
-
+.env
+*.env
+*.env.*
+.map
+*.map
+*/.next/
 packages/react-devtools-core/dist
 packages/react-devtools-extensions/chrome/build
 packages/react-devtools-extensions/chrome/*.crx
